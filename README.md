@@ -17,8 +17,6 @@ Fork the repo, add more shortcuts and send me a pull request. I'll try my best t
 
 ### List of Shortcuts
 
-Features you get from this are:
-
 ##### Function shortcuts
 
 - `function parse_git_branch()`: *Parses current git branch*
@@ -41,6 +39,8 @@ Features you get from this are:
 - `alias pp`: *Run the [Python Json.tool](http://docs.python.org/2/library/json.html)*. Usage: `$ curl "http://my-json-resource.com/" | pp`
 - `alias build`: *Quietly clean and install a Maven project*. Usage: `$ build`
 - `alias pbuild`: *Clean, compile and setup Intellij Idea files for a [Play Framework](http://www.playframework.com/) project*. Usage: `$ pbuild`
+
+* * *
 
 ### License
 
