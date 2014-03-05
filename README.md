@@ -1,7 +1,7 @@
 Shortcuts
 =========
 
-A plug-and-play bashrc-like script that can be sourced on linux startup shells. Download the file to a location you want curl or your [browser](https://raw.github.com/nitindhar7/shortcuts/master/shortcuts):
+A plug-and-play bashrc-like script that can be sourced on linux startup shells. Download the file to a location you want via cURL or your [browser](https://raw.github.com/nitindhar7/shortcuts/master/shortcuts):
 
     curl -O https://raw.github.com/nitindhar7/shortcuts/master/shortcuts
 
