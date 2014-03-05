@@ -30,18 +30,18 @@ Features you get from this are:
 
 ##### Command aliases
 
-- `alias ll`: List files with details
-- `alias la`: List files with details including hidden files
-- `alias reload`: Sources ~/.bashrc
-- `alias bashrc`: Opens ~/.bashrc in `nano`
-- `alias catbashrc`: `cat`s ~/.bashrc to `stdout`
-- `alias lessbashrc`: `less`s ~/.bashrc
-- `alias grep_search`: Run a case-insensitive pattern grep recursively and show file numbers
-- `alias gitl`: Show graph of git logs with short commit hash, message, date, tags, etc
-- `alias gitfo`: Fetch origin from a git repo
-- `alias gitpom`: Pull `origin master` from a git repo
-- `alias gitfopom`: Fetch origin and then pull `origin master` from a git repo
-- `alias gitfopo`: Fetch origin and then pull whatever branch is given from the origin of a git repo
-- `alias pp`: Run the [Python Json.tool](http://docs.python.org/2/library/json.html)
-- `alias build`: Quietly clean and install a Maven project
-- `alias pbuild`: Clean, compile and setup Intellij Idea files for a [Play Framework](http://www.playframework.com/) project
+- `alias ll`: *List files with details*
+- `alias la`: *List files with details including hidden files*
+- `alias reload`: *Sources ~/.bashrc*
+- `alias bashrc`: *Opens ~/.bashrc in `nano`*
+- `alias catbashrc`: *`cat`s ~/.bashrc to `stdout`*
+- `alias lessbashrc`: *`less`s ~/.bashrc*
+- `alias grep_search`: *Run a case-insensitive pattern grep recursively and show file numbers*
+- `alias gitl`: *Show graph of git logs with short commit hash, message, date, tags, etc*
+- `alias gitfo`: *Fetch origin from a git repo*
+- `alias gitpom`: *Pull `origin master` from a git repo*
+- `alias gitfopom`: *Fetch origin and then pull `origin master` from a git repo*
+- `alias gitfopo`: *Fetch origin and then pull whatever branch is given from the origin of a git repo*
+- `alias pp`: *Run the [Python Json.tool](http://docs.python.org/2/library/json.html)*
+- `alias build`: *Quietly clean and install a Maven project*
+- `alias pbuild`: *Clean, compile and setup Intellij Idea files for a [Play Framework](http://www.playframework.com/) project*
