@@ -71,3 +71,4 @@ alias gittip-diff-filenames="git diff --name-status origin/master HEAD"
 alias gittip-diff-file="git diff origin/master..HEAD --"
 alias build='mvn -q clean install'
 alias pbuild='play clean compile idea'
+alias abuild='activator clean compile idea'
